@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in C++ when accessing elements of a `std::vector`.  The error arises from an incorrect loop condition that tries to access an element beyond the vector's size. The solution shows how to fix the error by adjusting the loop condition.
